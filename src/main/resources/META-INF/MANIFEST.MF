@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLCorePlugin: bigmineworld.swordfix.SwordFixPlugin
+FMLCorePluginContainsFMLMod: false
+Created-By: 21.0.2 (BellSoft)
+
