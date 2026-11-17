@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
-FMLCorePlugin: bigmineworld.swordfix.SwordFixPlugin
-FMLCorePluginContainsFMLMod: false
-Created-By: 21.0.2 (BellSoft)
+Implementation-Title: SwordFix
+Implementation-Version: 1.0.0
+Specification-Title: swordfix
+Specification-Version: 1.0.0
+Specification-Vendor: Bigens
+Implementation-Vendor: Bigens
+Built-On-Minecraft: 1.20.1
+MixinConfigs: swordfix.mixins.json
 

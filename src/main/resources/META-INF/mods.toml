@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GPL-3.0"
+
+[[mods]]
+modId="swordfix"
+version="1.0.0"
+displayName="SwordFix"
+authors="Bigens"
+description='''Disables first-person weapon and tool lowering during attack cooldown in Minecraft 1.20.1 Forge.'''
